@@ -1,4 +1,4 @@
-## **BarbieScript-RoboCode-ETEC-Registro**
+# **BarbieScript-RoboCode-ETEC-Registro**
 
 ![Capa do BarbieScript](BarbieScript-RoboCode-ETEC-Registro/Capa_BarbieScript.jpg)
 
