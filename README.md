@@ -1,5 +1,8 @@
 ### **BarbieScript-RoboCode-ETEC-Registro**
 
+![Capa Representativa do Projeto](BarbieScript-RoboCode-ETEC-Registro
+/Capa_BarbieScript.jpg)
+
 ### **Introdução:**
 Em 2023, durante nosso primeiro ano do ensino médio na ETEC de Registro, eu (Victor Theodoro) e meus colegas de classe, @mario_tdias e @JuliaAlabi , embarcamos em uma emocionante jornada no mundo da programação e da robótica, participando do 11º Torneio de RoboCode. Com dedicação, trabalho em equipe e muita criatividade, conquistamos o primeiro lugar dentro da nossa instituição.
 
