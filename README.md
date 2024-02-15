@@ -23,3 +23,6 @@ Participar do 11º Torneio de RoboCode da ETEC de Registro foi uma experiência 
 ### **Agradecimentos:**
 Gostaríamos de expressar nossa gratidão aos organizadores do Torneio de RoboCode da ETEC de Registro, aos nossos professores e mentores que nos apoiaram ao longo do caminho, e, é claro, aos nossos colegas de equipe, Mario Armando Takahashi Martins Dias e Julia Alabi, cuja determinação e trabalho em equipe foram fundamentais para nosso sucesso.
 s. 
+
+Link do Live de Premiação dos Vencedores do Torneio:
+https://www.youtube.com/watch?v=e-7UfXoVjW8
