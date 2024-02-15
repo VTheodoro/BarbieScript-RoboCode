@@ -16,6 +16,10 @@ Durante meses, mergulhamos em intensas sessões de programação, utilizando a d
 ### **O Pódio:**
 Nas finais, contra outras ETECs e Fatecs da região, levamos nossa determinação e habilidades ao máximo, competindo em um ambiente ainda mais desafiador. Com grande orgulho, conquistamos o segundo lugar, demonstrando não apenas nossa capacidade técnica, mas também nossa resiliência e habilidade de adaptação em situações competitivas.
 
+<div style="text-align: center;">
+<img src="Vencedores2023.png" width="600" height="400">
+</div>
+
 ### **Reconhecimento:**
 Nossa jornada no 11º Torneio de RoboCode não foi apenas sobre conquistar troféus e medalhas. Foi sobre aprender, crescer e superar desafios. Recebemos reconhecimento não apenas pela colocação no pódio, mas também pelo trabalho árduo, pela dedicação e pela paixão que dedicamos ao projeto. Os brindes e medalhas que ganhamos são testemunhos tangíveis do nosso sucesso, mas as lições aprendidas e as memórias criadas são os verdadeiros tesouros desta jornada.
 
