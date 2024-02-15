@@ -3,7 +3,7 @@
 ### **Introdução:**
 Em 2023, durante nosso primeiro ano do ensino médio na ETEC de Registro, eu (Victor Theodoro) e meus colegas de classe, @mario_tdias e @JuliaAlabi , embarcamos em uma emocionante jornada no mundo da programação e da robótica, participando do 11º Torneio de RoboCode. Com dedicação, trabalho em equipe e muita criatividade, conquistamos o primeiro lugar dentro da nossa instituição.
 
-<img src="Capa_BarbieScript.jpg" width="300" height="200">
+<img src="Capa_BarbieScript.jpg" width="600" height="400">
 
 ### **A Competição:**
 O RoboCode é uma competição de programação de robôs virtuais utilizando a linguagem Java e o software RoboCode. Nossos robôs, incluindo o BarbieScript, foram desafiados a competir em uma arena virtual, onde estratégia e programação determinavam o vencedor. A competição foi organizada pelo Centro Paula Souza e a Robótica Paula Souza.
