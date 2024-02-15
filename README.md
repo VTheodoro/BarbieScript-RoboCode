@@ -17,7 +17,7 @@ Durante meses, mergulhamos em intensas sessões de programação, utilizando a d
 Nas finais, contra outras ETECs e Fatecs da região, levamos nossa determinação e habilidades ao máximo, competindo em um ambiente ainda mais desafiador. Com grande orgulho, conquistamos o segundo lugar, demonstrando não apenas nossa capacidade técnica, mas também nossa resiliência e habilidade de adaptação em situações competitivas.
 
 <div style="text-align: center;">
-<img src="Vencedores2023.png" width="300" height="300">
+<img src="Vencedores2023.png" width="350" height="300">
 </div>
 
 ### **Reconhecimento:**
