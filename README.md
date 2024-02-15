@@ -1,4 +1,4 @@
-# **BarbieScript - RoboCode - ETEC-Registro**
+# **BarbieScript - RoboCode 2023 - ETEC-Registro**
 
 ![Capa do BarbieScript](BarbieScript-RoboCode-ETEC-Registro/Capa_BarbieScript.jpg)
 
