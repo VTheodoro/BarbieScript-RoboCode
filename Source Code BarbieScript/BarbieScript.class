@@ -1,0 +1,55 @@
+package Os_FakeNatty;
+
+import java.awt.Color;
+import robocode.AdvancedRobot;
+import robocode.HitWallEvent;
+import robocode.ScannedRobotEvent;
+import robocode.WinEvent;
+import robocode.util.Utils;
+
+public class BarbieScript extends AdvancedRobot {
+  int moveDirection = 1;
+  
+  public void run() {
+    setAdjustRadarForRobotTurn(true);
+    setBodyColor(Color.magenta);
+    setGunColor(Color.white);
+    setRadarColor(Color.magenta);
+    setScanColor(Color.white);
+    setBulletColor(Color.magenta);
+    setAdjustGunForRobotTurn(true);
+    turnRadarRightRadians(Double.POSITIVE_INFINITY);
+  }
+  
+  public void onScannedRobot(ScannedRobotEvent paramScannedRobotEvent) {
+    double d1 = paramScannedRobotEvent.getBearingRadians() + getHeadingRadians();
+    double d2 = paramScannedRobotEvent.getVelocity() * Math.sin(paramScannedRobotEvent.getHeadingRadians() - d1);
+    setTurnRadarLeftRadians(getRadarTurnRemainingRadians());
+    if (Math.random() > 0.9D)
+      setMaxVelocity(12.0D * Math.random() + 12.0D); 
+    if (paramScannedRobotEvent.getDistance() > 150.0D) {
+      double d = Utils.normalRelativeAngle(d1 - getGunHeadingRadians() + d2 / 22.0D);
+      setTurnGunRightRadians(d);
+      setTurnRightRadians(Utils.normalRelativeAngle(d1 - getHeadingRadians() + d2 / getVelocity()));
+      setAhead((paramScannedRobotEvent.getDistance() - 140.0D) * this.moveDirection);
+      setFire(3.0D);
+    } else {
+      double d = Utils.normalRelativeAngle(d1 - getGunHeadingRadians() + d2 / 15.0D);
+      setTurnGunRightRadians(d);
+      setTurnLeft(-90.0D - paramScannedRobotEvent.getBearing());
+      setAhead((paramScannedRobotEvent.getDistance() - 140.0D) * this.moveDirection);
+      setFire(3.0D);
+    } 
+  }
+  
+  public void onHitWall(HitWallEvent paramHitWallEvent) {
+    this.moveDirection = -this.moveDirection;
+  }
+  
+  public void onWin(WinEvent paramWinEvent) {
+    for (byte b = 0; b < 50; b++) {
+      turnRight(30.0D);
+      turnLeft(30.0D);
+    } 
+  }
+}

@@ -1,0 +1,9 @@
+#Robocode Robot
+#Fri Aug 25 13:41:44 BRT 2023
+robot.classname=Os_FakeNatty.BarbieScript
+robot.author.name=Os_FakeNatty
+robocode.version=1.9.4.3
+robot.version=1.0
+robot.codesize=307
+robot.description=ETEC de Registro\nCidade de Registro
+robot.include.source=true
