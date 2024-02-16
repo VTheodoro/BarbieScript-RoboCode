@@ -32,15 +32,15 @@ s.
 
 ## **Links:**
 
-**[Link da Página Oficial da ETEC de Registro Sobre a 5º Competição de RoboCode, Fotos do Evento e Seus Vecedores:
+**[Link da Página Oficial da ETEC de Registro Sobre a 5º Competição de RoboCode, Fotos do Evento e Seus Vecedores
 ](http://etecregistro.edu.br/bloginteg.php?id=NDg2
 )**
 
-**[Link da Página Oficial da Robótica Paula Souza Sobre o 11º Torneio de RoboCode e Seus Vencedores:
+**[Link da Página Oficial da Robótica Paula Souza Sobre o 11º Torneio de RoboCode e Seus Vencedores
 ](http://www.robotica.cpscetec.com.br/verEventos.php?pag=50
 )**
 
-**[Link do Live de Premiação dos Vencedores do Torneio:
+**[Link do Live de Premiação dos Vencedores do Torneio
 ](https://www.youtube.com/watch?v=e-7UfXoVjW8
 )**
 
