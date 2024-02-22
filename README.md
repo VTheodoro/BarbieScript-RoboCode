@@ -1,7 +1,7 @@
 # **BarbieScript - RoboCode 2023 - ETEC-Registro**
 
 ### **Introdução:**
-Em 2023, durante nosso primeiro ano do ensino médio na ETEC de Registro, eu **[(Victor Theodoro)](https://github.com/VTheodoro)** e meus colegas de classe, **[Mario Takahashi](https://github.com/mariotdiase)** e **[Julia Alabi](https://github.com/JuliaAlabi)** , embarcamos em uma emocionante jornada no mundo da programação e da robótica, participando do 11º Torneio de RoboCode. Com dedicação, trabalho em equipe e muita criatividade, conquistamos o primeiro lugar dentro da nossa instituição.
+Em 2023, durante nosso primeiro ano do ensino médio na ETEC de Registro, eu **[(Victor Theodoro)](https://github.com/VTheodoro)** e meus colegas de classe, **[Mario Takahashi](https://github.com/mariotdias)** e **[Julia Alabi](https://github.com/JuliaAlabi)** , embarcamos em uma emocionante jornada no mundo da programação e da robótica, participando do 11º Torneio de RoboCode. Com dedicação, trabalho em equipe e muita criatividade, conquistamos o primeiro lugar dentro da nossa instituição.
 
 <div style="text-align: center;">
 <img src="Capa_BarbieScript.jpg" width="600" height="400">
